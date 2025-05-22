@@ -1,0 +1,3 @@
+Notes from Peter K
+
+The actual binary needs to be extracted from that to do any reverse engineering on it. Here is the extracted version of burp, to be loaded starting at address 0, and entry point at 007531 (octal).
